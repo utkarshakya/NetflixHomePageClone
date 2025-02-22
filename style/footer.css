@@ -61,3 +61,11 @@ h4 a{
     }
 
 }
+
+.disclaimer p{
+    background-color: #ffef0f;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
